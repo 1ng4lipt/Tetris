@@ -151,16 +151,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Nordcurrent Test\src_sample\ConsolEngine\BaseApp.cpp" />
+    <ClCompile Include="BaseApp.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Painter.cpp" />
     <ClCompile Include="TestApp.cpp" />
     <ClCompile Include="Tetramino.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Nordcurrent Test\src_sample\ConsolEngine\BaseApp.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Nordcurrent Test\src_sample\ConsolEngine\PerformanceCounter.h" />
+    <ClInclude Include="BaseApp.h" />
     <ClInclude Include="Painter.h" />
+    <ClInclude Include="PerformanceCounter.h" />
     <ClInclude Include="TestApp.h" />
     <ClInclude Include="Tetramino.h" />
   </ItemGroup>

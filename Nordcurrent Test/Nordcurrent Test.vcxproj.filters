@@ -27,7 +27,7 @@
     <ClCompile Include="TestApp.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Nordcurrent Test\src_sample\ConsolEngine\BaseApp.cpp">
+    <ClCompile Include="BaseApp.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,10 +41,10 @@
     <ClInclude Include="TestApp.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Nordcurrent Test\src_sample\ConsolEngine\PerformanceCounter.h">
+    <ClInclude Include="BaseApp.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Nordcurrent Test\src_sample\ConsolEngine\BaseApp.h">
+    <ClInclude Include="PerformanceCounter.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
